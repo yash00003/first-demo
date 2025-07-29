@@ -1,3 +1,3 @@
 # first-demo
-This is my first git repository \n
+This is my first git repository 
 Author - Yash Sharma
